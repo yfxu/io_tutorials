@@ -22,7 +22,7 @@
 				"services": [],
 				"actions": [],
 				"isROS": true,
-				"ros_distro": "melodic"
+				"ros_distro": "noetic"
 			},
 			"requiredRuntime": "device",
 			"restart_policy": "always",
@@ -33,7 +33,7 @@
 					"simulation": false
 				},
 				"gitExecutable": {
-					"repository": "https://github.com/ROBOTIS-GIT/turtlebot3#melodic-devel",
+					"repository": "https://github.com/ROBOTIS-GIT/turtlebot3#noetic-devel",
 					"strategyType": "Source",
 					"dockerFilePath": "",
 					"contextDir": ""

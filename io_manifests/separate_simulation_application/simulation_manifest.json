@@ -198,7 +198,7 @@
 				}],
 				"actions": [],
 				"isROS": true,
-				"ros_distro": "melodic"
+				"ros_distro": "noetic"
 			},
 			"requiredRuntime": "cloud",
 			"architecture": "amd64",

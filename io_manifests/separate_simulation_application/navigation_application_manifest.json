@@ -22,7 +22,7 @@
 				"services": [],
 				"actions": [],
 				"isROS": true,
-				"ros_distro": "melodic"
+				"ros_distro": "noetic"
 			},
 			"requiredRuntime": "device",
 			"restart_policy": "no",
